@@ -1,1 +1,2 @@
 # deepseekR1
+经过本人优化的deepseekR1模型，只需要cpu以及python环境
