@@ -11,5 +11,7 @@ def api_call(question):
     print("\n服务器繁忙，请稍后再试")
 
 if __name__ == "__main__":
+    while(true){
     question = input("请输入问题：")
     api_call(question)
+    }
